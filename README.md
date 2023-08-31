@@ -2,12 +2,12 @@
 
 I’m currently studying:
 <ul>
-	<li>🌱  at the <a href="https://htmlacademy.ru/study">HTML Academy</a> for the profession of a React developer.</li>
-	<li> 🌱  at the <a href="https://www.altcademy.com/">Altcademy</a> for the profession of a Full-stack developer.</li>
+	<li>🌱  at the <a href="https://htmlacademy.ru/study">HTML Academy</a> for the profession of a `React developer`.</li>
+	<li> 🌱  at the <a href="https://www.altcademy.com/">Altcademy</a> for the profession of a `Full-stack developer`.</li>
 </ul>
 
 
-I've lived in Turkey, Germany, and Russia, but I currently reside in the ✨ Bay Area ✨. 
+I've lived in Turkey, Germany, and Russia, but I currently reside in the ✨ `Bay Area` ✨. 
 
 I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academic and art events in my free time.
 
