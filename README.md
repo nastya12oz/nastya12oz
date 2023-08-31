@@ -10,6 +10,8 @@
 
 ### Hi there 👋 My name is Nastya, I'm a React developer, an in-progress Full-stack developer.
 
+</br>
+
 I’m currently studying:
 <ul>
 	<li>🌱  at the <a href="https://htmlacademy.ru/study">HTML Academy</a> for the profession of a React Developer.</li>
