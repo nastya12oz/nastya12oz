@@ -21,7 +21,9 @@ I've lived in Turkey, Germany, and Russia, but I now reside in San Francisco ✨
 
 I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academic and art events in my free time.
 
-🔭 I have a background in Psychology, D&I, as well as in Charities and Nonprofits.
+<br>
+
+🔭 I have a background in Psychology and Academia, D&I-consulting, as well as in Charities and Nonprofits.
 
 
 ## Languages and Tools  
