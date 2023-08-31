@@ -2,9 +2,9 @@
 
 I’m currently studying:
 <ul>
-	<li>🌱  at the [HTML Academy]([url](https://htmlacademy.ru/study)) for the profession of a React developer.
+	<li>🌱  at the <a href="https://htmlacademy.ru/study">HTML Academy</a> for the profession of a React developer.
 </li>
-	<li><be> 🌱  at the [Altcademy]([url](https://www.altcademy.com/)) for the profession of a Full-stack developer.
+	<li><be> 🌱  at the <a href="https://www.altcademy.com/">Altcademy</a> for the profession of a Full-stack developer.
 </li>
 </ul>
 
