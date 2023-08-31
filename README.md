@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Nastya, I'm a React developer, an in-progress Full-stack developer.
 
-<!--
-**nastya12oz/nastya12oz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently studying:
 
-Here are some ideas to get you started:
+🌱  at the [HTML Academy]([url](https://htmlacademy.ru/study)) for the profession of a React developer.
+🌱  at the [Altcademy]([url](https://www.altcademy.com/)) for the profession of a Full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've lived in Turkey, Germany, and Russia, but I currently reside in the ✨ Bay Area ✨. 
+
+I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academic and art events in my free time.
+
+
+https://www.linkedin.com/in/a-chasovskikh/
