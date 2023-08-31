@@ -47,6 +47,6 @@ I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academi
 
 
 ## Github Stats  
-<div align="center"<img src="https://github-readme-stats.vercel.app/api?username=nastya12oz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=nastya12oz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <br/>  
