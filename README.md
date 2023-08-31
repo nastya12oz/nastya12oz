@@ -7,7 +7,7 @@ I’m currently studying:
 </ul>
 
 
-I've lived in Turkey, Germany, and Russia, but I now reside in   the ✨ Bay Area ✨. 
+I've lived in Turkey, Germany, and Russia, but I now reside in San-Francisco ✨ Bay Area ✨. 
 
 I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academic and art events in my free time.
 
