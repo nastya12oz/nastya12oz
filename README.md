@@ -16,12 +16,12 @@ I’m currently studying:
 	<li> 🌱  at the <a href="https://www.altcademy.com/">Altcademy</a> for the profession of a Full-stack Developer.</li>
 </ul>
 
-
+</br>
 I've lived in Turkey, Germany, and Russia, but I now reside in San Francisco ✨ Bay Area ✨. 
 
 I enjoy singing in the UC Berkeley Chorus, hiking, and attending various academic and art events in my free time.
 
-<br>
+</br>
 
 🔭 I have a background in Psychology and Academia, D&I-consulting, as well as in Charities and Nonprofits.
 
