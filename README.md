@@ -1,9 +1,13 @@
 ### Hi there 👋 My name is Nastya, I'm a React developer, an in-progress Full-stack developer.
 
 I’m currently studying:
+<ul>
+	<li>🌱  at the [HTML Academy]([url](https://htmlacademy.ru/study)) for the profession of a React developer.
+</li>
+	<li><be> 🌱  at the [Altcademy]([url](https://www.altcademy.com/)) for the profession of a Full-stack developer.
+</li>
+</ul>
 
-🌱  at the [HTML Academy]([url](https://htmlacademy.ru/study)) for the profession of a React developer.
-<be> 🌱  at the [Altcademy]([url](https://www.altcademy.com/)) for the profession of a Full-stack developer.
 
 I've lived in Turkey, Germany, and Russia, but I currently reside in the ✨ Bay Area ✨. 
 
